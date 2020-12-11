@@ -1,0 +1,47 @@
+.heading
+
+
+
+h1{
+margin-left: 1250px;
+}
+h2{
+    margin-left: 600px;
+    }
+h3{
+        margin-left: 600px;
+        }
+
+
+
+
+
+body{
+    background-image:url(african.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 200%;
+    font-family: arial;
+    
+}
+
+h1{
+    border-style: solid;
+    text-align: center;
+    border-color: gold;
+    background-origin: padding-box;
+
+}
+
+
+div{
+    font-family: Verdana;
+    
+}
+
+body{
+    color: ghostwhite;
+}
+
+
+
